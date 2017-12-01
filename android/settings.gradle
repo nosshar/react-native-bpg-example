@@ -1,0 +1,5 @@
+rootProject.name = 'BPGExample'
+include ':react-native-bpg'
+project(':react-native-bpg').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-bpg/android')
+
+include ':app'

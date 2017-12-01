@@ -1,0 +1,38 @@
+{
+  "name": "BPGExample",
+  "version": "0.0.1",
+  "private": false,
+  "description": "Example project for ract-native-bpg module",
+  "homepage": "https://github.com/nosshar/react-native-bpg-example#readme",
+  "author": "Kornell",
+  "license": "MIT",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nosshar/react-native-bpg-example.git"
+  },
+  "keywords": [
+    "android",
+    "react-native",
+    "example",
+    "bpg",
+    "better portable graphics"
+  ],
+  "dependencies": {
+    "react": "15.4.1",
+    "react-native": "^0.42.x",
+    "react-native-bpg": "latest"
+  },
+  "devDependencies": {
+    "babel-jest": "20.0.3",
+    "babel-preset-react-native": "2.1.0",
+    "jest": "20.0.4",
+    "react-test-renderer": "15.4.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

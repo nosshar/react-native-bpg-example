@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <!-- Cursor color -->
+        <!--
+        <item name="android:textColor">@color/cursor</item>
+        <item name="android:textColorHint">@color/cursor</item>
+        <item name="android:textCursorDrawable">@color/cursor</item>  // Cursor
+        <item name="android:textSelectHandle">@drawable/cursor</item> // For pointer normal state and copy text state
+        <item name="android:textSelectHandleLeft">@drawable/cursor</item>
+        <item name="android:textSelectHandleRight">@drawable/cursor</item>
+        -->
+    </style>
+
+</resources>
