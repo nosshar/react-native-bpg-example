@@ -24,7 +24,7 @@
   "dependencies": {
     "react": "15.4.1",
     "react-native": "^0.42.x",
-    "react-native-bpg": "latest"
+    "react-native-bpg": "^0.0.15"
   },
   "devDependencies": {
     "babel-jest": "20.0.3",
